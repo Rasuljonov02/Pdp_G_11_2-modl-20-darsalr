@@ -1,0 +1,432 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: black;
+}
+
+.fooud {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 20px 100px;
+  display: flex;
+  gap: 4rem;
+  justify-content: end;
+  align-items: center;
+  background: #ffffff;
+  box-shadow: 0px 3px 12px rgba(0, 0, 0, 0.507);
+}
+.fooud .homue {
+  color: #6519df;
+}
+.fooud .sayu {
+  background: #ffffff;
+  border: 2px solid #6930c3;
+  border-radius: 50px;
+  color: #6930c3;
+  padding: 0 15px;
+}
+
+a {
+  text-decoration: none;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 30px;
+}
+.sharan .a {
+  width: 150px;
+}
+.sharan img {
+  width: 25px;
+}
+.sharan span {
+  display: flex;
+
+  gap: 1.5rem;
+}
+
+.sharan {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.karan {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+body {
+  background: #ffffff;
+}
+
+.niceto {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+  width: 100%;
+  background: #343434;
+  box-sizing: border-box;
+  padding: 30px;
+  height: 400px;
+  justify-content: center;
+}
+.niceto span {
+  display: flex;
+  gap: 3rem;
+
+  flex-wrap: wrap;
+  margin-top: 50px;
+  padding: 10px 60px;
+}
+.niceto span p {
+  width: 400px;
+  color: white;
+}
+.niceto h1 {
+  color: white;
+}
+.l {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+.skills .dev {
+  display: flex;
+  flex-wrap: wrap;
+  width: 750px;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+.skills .dev img {
+  width: 100px;
+  padding: 10px 50px;
+}
+.skills {
+  display: flex;
+  margin-top: 30px;
+  justify-content: center;
+}
+
+.writter {
+  width: 100%;
+  justify-content: center;
+}
+
+.writter h1 {
+  text-align: center;
+  margin-top: 80px;
+  padding-top: 30px;
+  background: #272727;
+}
+.aseli {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
+  padding: 50px 0;
+  background: #2c2b2b;
+  height: 1000px;
+  padding-top: 50px;
+}
+.aseli span {
+  width: 200px;
+  padding: 20px 50px;
+  margin-top: 20px;
+  background: #212121;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+  height: 200px;
+  display: flex;
+  margin-left: 70px;
+  flex-direction: column;
+  justify-content: center;
+  transform: skew(-20deg, -10deg);
+}
+.aseli span h4 {
+  color: #c25eff;
+  transform: skew(20deg, 10deg);
+}
+.aseli span p {
+  transform: skew(20deg, 10deg);
+  color: white;
+}
+.aseli .anonnimus {
+}
+
+.p {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.box img {
+  width: 50px;
+}
+.project {
+  width: 100%;
+  height: auto;
+  margin-top: 60px;
+
+  display: flex;
+  justify-content: center;
+}
+.maxsulot {
+  width: 100%;
+  height: auto;
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+.box {
+  width: 350px;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+
+  position: relative;
+}
+.box img {
+  position: relative;
+  right: 70px;
+}
+.box1 {
+  background-image: url(./img/pp\ 1.png);
+}
+.box2 {
+  background-image: url(./img/pp2.png);
+}
+.box3 {
+  background-image: url(./img/10days10design\ 1.png);
+}
+.box h3 {
+  color: #ffffff;
+}
+.say {
+  background: #343434;
+  width: 100%;
+  height: 550px;
+  margin-top: 60px;
+}
+.hel {
+  text-align: center;
+  padding-top: 60px;
+}
+.hel h2 {
+  color: #ffffff;
+}
+
+.inoutlar .id .qwe {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  gap: 1rem;
+}
+.inoutlar .id {
+  display: flex;
+  gap: 3rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.inoutlar .id .opo input {
+  width: 250px;
+  height: 110px;
+}
+input {
+  padding: 8px 40px;
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+  background: #343434;
+}
+.link {
+  text-align: center;
+  margin-top: 40px;
+}
+.link a {
+  color: #ffffff;
+}
+.writter h1 {
+  color: white;
+}
+.aseli span {
+  border: 3px solid white;
+}
+
+.pasroqgi {
+  display: flex;
+  background: #7245b9;
+  justify-content: center;
+}
+.cvc {
+  display: flex;
+  flex-direction: column;
+  margin-top: 80px;
+  height: 200px;
+  gap: 1rem;
+  text-align: center;
+}
+.cvc span {
+  display: flex;
+
+  gap: 1rem;
+}
+.cvc h2,
+h4 {
+  color: #ffffff;
+}
+.cvc span img {
+  width: 25px;
+}
+.tugadi {
+  text-align: center;
+  background: #6900f1;
+  height: 50px;
+}
+.tugadi p {
+  padding: 15px 0;
+}
+
+@media (max-width: 600px) {
+  /* Mobil ekranlar uchun stil qoidalari */
+  body .yoq {
+    display: none;
+    width: 100%;
+  }
+
+  .niceto {
+    height: auto;
+  }
+
+  .niceto span {
+    display: flex;
+    gap: 3rem;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    padding: 10px 60px;
+    justify-content: center;
+  }
+  .niceto span p {
+    width: 250px;
+    color: white;
+    font-size: 18px;
+  }
+  .niceto h1 {
+    color: white;
+    font-size: 20px;
+  }
+  .writter {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  .aseli span {
+    width: 150px;
+    margin-left: 150px;
+    margin-top: -30px;
+  }
+
+  .project {
+    width: 100%;
+    height: auto;
+    margin-top: 60px;
+
+    display: flex;
+    justify-content: center;
+  }
+  .maxsulot {
+    width: 250px;
+    height: auto;
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .inoutlar .id {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+  }
+
+  .inoutlar .id .qwe input {
+    width: 250px;
+    height: 30px;
+    margin-left: -30px;
+  }
+  .inoutlar .id .opo input {
+    width: 250px;
+    height: 100px;
+  }
+  input {
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    background: #343434;
+  }
+  .link {
+    width: 100%;
+  }
+  .link a {
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    padding: 8px 150px;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 1024px) {
+  /* Planshetlar uchun stil qoidalari */
+  .niceto h1 {
+    font-size: 25px;
+  }
+  .niceto span {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .niceto span p {
+    width: 250px;
+  }
+
+  .skills {
+    width: 100%;
+  }
+  .skills .dev img {
+    width: 80px;
+  }
+  .aseli {
+    width: 100%;
+  }
+  .project {
+    width: 100%;
+  }
+  .project .maxsulot {
+    display: flex;
+    justify-content: center;
+  }
+  .project .maxsulot .box {
+  }
+
+  body .bolla {
+    display: none;
+  }
+
+  .link a {
+    padding: 5px 100px;
+    color: black;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+}
+
+@media (min-width: 1025px) {
+  /* Kompyuterlar uchun stil qoidalari */
+}
